@@ -7,5 +7,5 @@
   },
   "description":"Simple currency converter",
   "main":"app.js",
-  "auther":"Tommy"
+  "author":"Tommy"
 }
